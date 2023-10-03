@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T20:56:35.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JhUk06TLAjsMCuGW8kVN" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T21:06:56.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hdg07ihi_9-04RAZSHcS" version="22.0.2" type="github">
   <diagram name="Página-1" id="iP0B75EqspC_ZsHWOYBM">
     <mxGraphModel dx="840" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zo-o57F2jBkZ8b7umEw2-60" value="AREA-ELEMENTOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="Zo-o57F2jBkZ8b7umEw2-60" value="ARE_EMPL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="594" width="135" height="130" as="geometry">
             <mxRectangle x="115" y="580" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -339,7 +339,7 @@
             <mxRectangle width="105" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zo-o57F2jBkZ8b7umEw2-47" value="AREA-ELEMENTOS" style="shape=table;startSize=26;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="Zo-o57F2jBkZ8b7umEw2-47" value="ARE_ELEM" style="shape=table;startSize=26;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="594" width="136" height="140" as="geometry">
             <mxRectangle x="115" y="580" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
